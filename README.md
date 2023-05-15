@@ -1,7 +1,7 @@
 To build a login application with phone OTP verification and backend APIs, you will need to set up a backend server and integrate it with the Google Firebase API for sending OTPs. Here's a step-by-step guide on how to implement this:
 
 Step 1: Set up a Backend Server
-Choose a backend programming language/framework that you are comfortable with, such as Node.js with Express or Python with Flask. Set up a new project and install the necessary dependencies.
+Choose a backend programming language/framework t Node.js . Set up a new project and install the necessary dependencies.
 
 Step 2: Integrate Firebase Authentication
 Sign up for a Google Firebase account and create a new project. Enable the Firebase Authentication service and configure it to use phone number authentication.
